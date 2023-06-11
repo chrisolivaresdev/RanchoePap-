@@ -1293,6 +1293,16 @@ section {
   flex-wrap: wrap;
 }
 
+
+@media (max-width: 550px) {
+  .container-contact{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+  
+}
+
 @keyframes animate-loading {
   0% {
     transform: rotate(0deg);
