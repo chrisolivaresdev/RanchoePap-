@@ -1055,6 +1055,9 @@ section {
     border: 0;
     padding: 15px;
   }
+  .details h3{
+    margin-top: 25px;
+  }
 }
 /*--------------------------------------------------------------
 # Gallery
