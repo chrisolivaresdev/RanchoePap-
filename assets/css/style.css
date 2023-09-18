@@ -690,6 +690,10 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.center{
+  margin: auto 0;
+}
+
 .breadcrumbs {
   padding: 15px 0;
   background: #1d1b16;
@@ -990,6 +994,12 @@ section {
 --------------------------------------------------------------*/
 .specials {
   overflow: hidden;
+}
+
+.img-fluid2{
+  width: 250px;
+  height: 250px;
+  border-radius: 30%;
 }
 
 .specials .nav-tabs {
